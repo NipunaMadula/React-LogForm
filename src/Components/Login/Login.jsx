@@ -21,6 +21,9 @@ export const Login = () => {
       <input type="password" />
     </div>
     </div>
+    <div className="submit-container">
+      <div className="submit">Login</div>
+    </div>
     </div>
   )
 }
